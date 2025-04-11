@@ -303,9 +303,6 @@ hr:nth-child(2) {
 
 .footer {
   display: flex;
-  position: absolute;
-  bottom: 1;
-  left: 0;
   justify-content: space-between;
   background-color: var(--dark-color);
   width: 100%;
